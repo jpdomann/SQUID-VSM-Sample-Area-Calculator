@@ -1,5 +1,5 @@
 function [ sampleArea ] = SampleAreaCalcFunc( SampleFname, varargin )
-%IMAGETESTFUNC is used to determine the size of samples testing in the
+%SAMPLEAREACALCFUNC is used to determine the size of samples testing in the
 %SQUID / VSM. Place the sample on a piece of graph paper / engineering
 %paper where each square is
 %   SampleFname is the file name of the picture being used of the sample on
